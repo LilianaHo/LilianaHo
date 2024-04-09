@@ -1,1 +1,1 @@
-Hello! I am Liliana, a humble programmer.
+Hello. My name is Lily, I code sometimes.
